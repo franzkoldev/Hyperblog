@@ -1,3 +1,4 @@
 Este es un texto plano
 que servirá de ejemplo
 para el curso de comandos y terminal
+de Fredy Vega
