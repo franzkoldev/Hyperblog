@@ -1,0 +1,3 @@
+Este es un texto plano
+que servirá de ejemplo
+para el curso de platzi
